@@ -1,3 +1,0 @@
-module "demomodule" {
-    source = "git:"
-}
